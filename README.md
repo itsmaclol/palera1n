@@ -46,3 +46,8 @@ A: as i said at the beginning, data loss may occur, you should have backed up yo
 
 Q: theres smoke coming from my device, is this normal?
 A: yes, this is normal and may happen to some devices
+
+
+
+
+m
