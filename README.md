@@ -11,6 +11,12 @@ an iOS device on any iOS (ipad or iphone), other apple products will probably wo
 
 ## how 2 complete
 
+### option 1: video guide
+
+[video guide](https://www.youtube.com/watch?v=yHMvDIJI2Fc)
+
+### option 2: text guide
+
 #### initial setup
 
 for best results and to prevent damage to other items, its ideal to set your device ontop of a brick or something similar, sidewalk/pavement works well in this situation
